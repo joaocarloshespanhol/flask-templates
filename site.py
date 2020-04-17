@@ -31,11 +31,6 @@ header{
     color: #f5f5f5;
     background-attachment: fixed;
 }
-
-
-
-
-
 </style>
 
 <div class='cursos'>
